@@ -7,3 +7,4 @@
 ## Languages and Tools
 
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=auto&labelColor=black)

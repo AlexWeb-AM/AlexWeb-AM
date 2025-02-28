@@ -1,11 +1,15 @@
 ![Header](https://github.com/AlexWeb-AM/AlexWeb-AM/blob/main/assets/banner.jpeg)   
 
-<div align="center" style="font-size: 25px; font-weight: bold;">About Me</div>
+<div align="center"><h1>About Me👦🏻</h1></div>
 
-### Hello, my name is Alex, I am a 15-year-old Full-stack developer from Armenia. My Full-stack development stack is in JavaScript and TypeScript. In Front-end development, I use the React framework with the integration of TypeScript, Redux/toolkit and many other technologies. In Back-end development, I use Node.js with the integration of TypeScript and many different libraries. From the database I mainly use MongoDB and PostgreSQL. I have a professional approach to creating web applications.
+<div align="center"> 
+  <p>Hello, my name is Alex, I am a 15-year-old Full-stack developer from Armenia. My Full-stack development stack is in JavaScript and TypeScript. In Front-end development, I use the React framework with the integration of TypeScript, Redux/toolkit and many other technologies. In Back-end development, I use Node.js with the integration of TypeScript and many different libraries. From the database I mainly use MongoDB and PostgreSQL. I have a professional approach to creating web applications.</p>
+</div>
 
-## Languages and Tools
-![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
+<div align="center"><h1>Languages And Skills 📗</h1></div>
+
+<div align="center">
+  ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Redux%2FToolkit-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&logoSize=auto&labelColor=black)
@@ -23,4 +27,16 @@
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto&labelColor=black)
+
+</div>
+
+
+<div align="center"><h1>Statistics 📊</h1></div>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexWeb-AM&show_icons=true&theme=radical)
+
+</div>
+
+
 
